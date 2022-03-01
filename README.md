@@ -3,3 +3,6 @@ This is a personal website which shows my skills of basic HTML and CSS and has a
 
 
 It also has linkedIn Twitter hyperlinks. 
+
+
+You can check it on : https://manavmody.github.io/personal-site2/
